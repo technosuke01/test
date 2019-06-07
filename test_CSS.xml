@@ -1,5 +1,5 @@
 <!--  Tutorial_01_Hello_World (XML)  -->
 <Module specificationVersion="2">
 <ModulePrefs title="suggestion" height="500"> </ModulePrefs>
-<Content type="html" href="suggestion.html"/>
+<Content type="html" href="test_index.html"/>
 </Module>
