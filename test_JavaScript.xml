@@ -1,0 +1,9 @@
+<!--  Tutorial_01_Hello_World (XML)  -->
+<Module specificationVersion="2">
+<ModulePrefs title="js_test" height="250"> </ModulePrefs>
+<Content type="html" href="test_index.html"/>
+<!--
+	<script type = "text / javascript" src = "test.js" > </script>
+	<script type = "text / javascript" src = "test2.js" > </script>
+-->
+</Module>
